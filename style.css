@@ -169,18 +169,22 @@ nav ul li a::after{
 .hobbies-col-2 img{
   width: 30%;
   border-radius: 40px;
+  margin: 10px;
 }
 .hobbies-col-2 img{
   width: 30%;
   border-radius: 40px;
+  margin: 10px;
 }
 .hobbies-col-2 img{
   width: 30%;
   border-radius: 40px;
+  margin: 10px;
 }
 table {
   border: 1px solid black;
   color: #b54769;
+  font-size: medium;
 }
 
 th,
