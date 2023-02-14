@@ -180,6 +180,7 @@ nav ul li a::after{
 }
 table {
   border: 1px solid black;
+  color: #b54769;
 }
 
 th,
