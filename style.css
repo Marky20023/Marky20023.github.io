@@ -18,6 +18,15 @@ body {
     margin-left: 50px;
     
   }
+
+  .container h3{
+    color: white;
+    text-align: left;
+    font-size: 60px;
+    color: whitesmoke;
+    margin: 40px 0 70px;
+    margin-left: 50px;
+  }
   p1{
     text-decoration: none; border-bottom:5px solid red; 
     font-size: 150px;
@@ -191,6 +200,7 @@ th,
 td {
   border: 1px solid black;
 }
+th,
 td{
   color: yellow;
 }
